@@ -12,7 +12,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 class SpringTestApplicationTests {
 
 	@Test
-	void contextLoads() {
+	public contextLoads() {
         log.info("Test contextLoads");
         log.info("Test contextLoads 2nd Execution ******** ******* ******** ");
         assertEquals(true,true);
