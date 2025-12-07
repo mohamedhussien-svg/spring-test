@@ -16,7 +16,6 @@ public class SpringTestApplication {
     @PostConstruct
     public void postConstruct(){
         log.info("postConstruct :- Spring Boot Application Started");
-
     }
 
 }
