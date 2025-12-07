@@ -14,6 +14,7 @@ class SpringTestApplicationTests {
 	@Test
 	void contextLoads() {
         log.info("Test contextLoads");
+        log.info("Test contextLoads 2nd Execution ******** ******* ******** ");
         assertEquals(true,true);
 	}
 
