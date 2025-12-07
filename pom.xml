@@ -75,6 +75,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+        <finalName>spring-test-1.0.0</finalName>
 	</build>
 
 </project>
