@@ -10,7 +10,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringTestApplication {
 
 	public static void main(String[] args) {
-		log.info("main :- Spring Boot Application Started");
+		log.info("main :- Spring Boot Application Started ya mohamed");
         SpringApplication.run(SpringTestApplication.class, args);
 	}
     @PostConstruct
